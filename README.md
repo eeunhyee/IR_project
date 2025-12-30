@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Ba_cGVYq)
-# Scientific Knowledge QA (IR) — Dual-Query Hybrid Retrieval + Weighted RRF + Reranking
+# Scientific Knowledge QA (IR) 
+— Dual-Query Hybrid Retrieval + Weighted RRF + Reranking
 
 과학 지식 질의응답(Scientific Knowledge Question Answering) 태스크에서  
 **대화 히스토리 기반 질의 정제 + 하이브리드 검색 + 가중 RRF 융합 + Cross-Encoder 리랭킹**으로
